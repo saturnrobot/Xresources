@@ -1,0 +1,21 @@
+*.alpha: 0.9
+
+! my custom theme
+*.foreground:   #ffffff
+*.background:   #010103
+*.color0:       #080808
+*.color8:       #411775
+*.color1:       #da77d0
+*.color9:       #e59fde
+*.color2:       #8177da
+*.color10:      #a69fe5
+*.color3:       #403d70
+*.color11:      #e5a69f
+*.color4:       #d0da77
+*.color12:      #dee59f
+*.color5:       #d03f52
+*.color13:      #da6877
+*.color6:       #77da81
+*.color14:      #9fe5a6
+*.color7:       #cfcfcf
+*.color15:      #ffffff
